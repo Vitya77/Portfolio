@@ -5,6 +5,9 @@
   --blue: #2b6777;
   --green: #52ab98;
 }
+html {
+  scroll-behavior: smooth;
+}
 html, body {
   margin: 0;
   padding: 0;
